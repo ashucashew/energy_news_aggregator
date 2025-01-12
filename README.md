@@ -1,0 +1,1 @@
+run energy_news_aggregator

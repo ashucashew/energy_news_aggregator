@@ -6,7 +6,7 @@ import pytz  # Import pytz for timezone handling
 import anthropic
 
 # Set up your Claude API key
-claude_api_key = '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'
+claude_api_key = "insert key here"
 
 # List of RSS feeds
 feeds = [
